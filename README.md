@@ -64,7 +64,7 @@ MarketInsight/
 
 ## API Capabilities
 
-The platform provides 16 specialized tools for comprehensive stock analysis:
+The platform provides specialized tools for comprehensive stock analysis:
 - Stock price tracking
 - Historical data analysis
 - Financial statements (Balance Sheet, Income Statement, Cash Flow)
